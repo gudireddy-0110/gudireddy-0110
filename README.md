@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Gudi Indhu Reddy
 
-<!--
-**gudireddy-0110/gudireddy-0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech (IT) student | Backend & Cloud-focused Software Engineer
 
-Here are some ideas to get you started:
+🔹 Strong in Python, Java, REST APIs, SQL, Cloud (Azure)
+🔹 Built enterprise-style backend systems & ML services
+🔹 Interested in large-scale systems & fintech platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+Python | Java | Flask | FastAPI | MySQL | MongoDB | Azure | Git | CI/CD
+
+📌 Featured Projects
+• AI-Enhanced Automated Timetable Generator
+• Fraud Detection System
+• Expense Tracking System
+
+📫 Reach me: LinkedIn | Email
