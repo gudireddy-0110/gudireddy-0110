@@ -1,5 +1,5 @@
 👋 Hi, I'm Gudi Indhu Reddy
-
+\href{https://www.linkedin.com/in/gudi-indhu-reddy/}{\textcolor{blue}{Linkedin}}
 Final-year B.Tech (IT) student | Backend & Cloud-focused Software Engineer
 
 🔹 Strong in Python, Java, REST APIs, SQL, Cloud (Azure)
