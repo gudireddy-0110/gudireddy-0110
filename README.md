@@ -100,13 +100,5 @@ improving query performance and ensuring reliable data storage.
 
 ---
 
-## 📊 GitHub Stats
-
-![Indhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudireddy-0110&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a3e635&icon_color=22d3ee)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gudireddy-0110&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a3e635)
-
----
-
 *Open to internship and full-time opportunities in Backend Engineering
 and Generative AI — graduating June 2026* 🚀
