@@ -1,7 +1,7 @@
 # Hi, I'm Gudi Indhu Reddy 👋
 
 **Final-Year B.Tech (Information Technology) | 2026 Graduate**  
-**Backend Developer · Gen-AI Explorer · Open Source Contributor**
+**Aspiring Software Engineer · Backend Developer · Gen-AI Explorer · Open Source Contributor**
 
 📍 Hyderabad, India &nbsp;|&nbsp; 📧 gudiindhureddy@gmail.com &nbsp;|&nbsp; +91-90322 66514  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gudi-indhu-reddy/)
