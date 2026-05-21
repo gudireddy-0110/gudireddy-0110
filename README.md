@@ -51,14 +51,15 @@ and bulk CSV processing with a clean Streamlit UI.
 
 ---
 
-### 📅 Academic Scheduling System — Constraint-Based Timetable Generator
-> Java · OOP · Constraint Logic · Algorithm Design
+### 🗓 [AutoSched AI — Intelligent Academic Timetable Generator](https://github.com/gudireddy-0110/automated_timetable_generator)
+> Java 21 · Spring Boot · MySQL · Spring Security · REST APIs
 
-Built a constraint-based system to automatically generate conflict-free
-timetables for subjects, faculty, and classrooms — reducing manual
-scheduling effort by **80%** and improving multi-constraint allocation efficiency.
+Full-stack college timetable management system that auto-generates conflict-free
+section-wise timetables across multiple branches, years, and sections. Features
+role-based access control (Admin/Faculty/Principal), CSV bulk upload, room
+utilization tracking, and PDF export — reducing manual scheduling effort by **80%**.
 
-`Java` `OOP` `Data Structures` `Algorithm Design` `System Design`
+`Java 21` `Spring Boot` `Spring Security` `MySQL` `JPA/Hibernate` `REST APIs` `Maven` `BCrypt`
 
 ---
 
