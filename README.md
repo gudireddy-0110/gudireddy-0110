@@ -52,6 +52,22 @@ e-commerce review analyzer using LangChain + Groq LLaMA 3.
 
 ## 🚀 Featured Projects
 
+### 🏪 [Purplle Store Intelligence System — End-to-End CCTV Analytics Pipeline](https://github.com/gudireddy-0110/purplle-store-intelligence)
+
+> YOLOv8 · FastAPI · SQLite · Docker · Streamlit · OpenCV
+
+Built a complete store intelligence system from raw CCTV footage to live business analytics.
+Detects visitors, tracks movement across zones, computes real-time conversion rates,
+and detects operational anomalies — all containerised with Docker Compose.
+
+`Python` `YOLOv8` `FastAPI` `Docker` `Streamlit` `OpenCV` `SQLite` `Pandas`
+
+- 🏆 **Round 2 Finalist** — Selected among 3,322 engineers for Purplle Tech Challenge 2026
+- 📹 Person detection & tracking with entry/exit counting and re-entry detection
+- 📊 6 REST API endpoints — conversion funnel, heatmap, anomaly detection
+- 🐳 Production-ready — Docker Compose, structured logging, idempotent ingestion
+- 📈 Live Streamlit dashboard with real-time auto-refresh
+
 ### 🔍 [ReviewIQ — AI-Powered E-Commerce Review Analyzer](https://github.com/gudireddy-0110/reviewiq)
 > LangChain · Groq LLaMA 3.3 · Streamlit · Pandas · Prompt Engineering
 
