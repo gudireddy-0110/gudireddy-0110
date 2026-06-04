@@ -35,6 +35,18 @@ e-commerce review analyzer using LangChain + Groq LLaMA 3.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.9-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
+![SQLite](https://img.shields.io/badge/SQLite-WAL-003B57?logo=sqlite)
+![Pytest](https://img.shields.io/badge/Pytest-8.2-blue?logo=pytest)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-black?logo=anthropic)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?logo=openai)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-black?logo=github)
+![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-purple)
+
+
 
 ---
 
