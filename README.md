@@ -62,7 +62,7 @@ and detects operational anomalies — all containerised with Docker Compose.
 
 `Python` `YOLOv8` `FastAPI` `Docker` `Streamlit` `OpenCV` `SQLite` `Pandas`
 
-- 🏆 **Round 2 Finalist** — Selected among 3,322 engineers for Purplle Tech Challenge 2026
+- 🏆 **Round 2 Finalist** — Selected among 30,000+ engineers for Purplle Tech Challenge 2026
 - 📹 Person detection & tracking with entry/exit counting and re-entry detection
 - 📊 6 REST API endpoints — conversion funnel, heatmap, anomaly detection
 - 🐳 Production-ready — Docker Compose, structured logging, idempotent ingestion
@@ -118,14 +118,15 @@ improving query performance and ensuring reliable data storage.
 
 | Achievement | Details |
 |---|---|
-| 🏆 Flipkart GRiD 7.0 | Prefinalist — National Engineering Competition |
+| 🏆 Purplle Tech Challenge 2026 | Prefinalist — Shortlisted to Round 2 among 30,000+ participants |
 | 🌐 IEEESoC 2025 | Open-Source Contributor |
 | 🎤 TED-Ed Speaker | Talk: *"Who are You to Judge Me?"* |
+| 📜 Mckinsey Forward Program | Mckinsey & Company |
 | 📜 Oracle Gen AI Certified | Oracle |
 | 📜 ServiceNow Virtual Internship | ServiceNow |
 | 📜 Cisco C Advanced | Cisco Networking Academy |
 | 📜 Cambridge C1 Level | Cambridge University Press |
-| 🎓 CGPA: 9.28 | Malla Reddy Engineering College for Women |
+| 🎓 CGPA: 9.29 | Malla Reddy Engineering College for Women |
 
 ---
 
