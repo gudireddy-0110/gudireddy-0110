@@ -17,7 +17,7 @@ e-commerce review analyzer using LangChain + Groq LLaMA 3.
 
 - 🔭 Currently building: **Gen-AI portfolio projects**
 - 🌱 Learning: LangChain, Prompt Engineering, LLM integration
-- 🏆 Prefinalist — **Flipkart GRiD 7.0**
+- 🏆 Prefinalist — **Purplle Tech Challenge 2026**
 - ☁️ **Microsoft Azure AI Intern** (via AICTE/Edunet Foundation)
 - 🎤 **TED-Ed Speaker**
 - 💬 Ask me about: Java, Python, SQL, REST APIs, OOP, Gen-AI
